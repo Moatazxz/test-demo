@@ -3,8 +3,8 @@ add change 1
 
 
 #three way
-main : A - B - C - X - V - W (merge commit -  M - N )
-            B2  \    M - N /
+main : A - B - *C - X - V  
+            B2  \ M - N 
 
 
 # fast
