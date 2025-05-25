@@ -8,8 +8,8 @@ main : A - B - C - X - V - W (merge commit -  M - N )
 
 
 # fast
-main : A - B - C - M - N  
-            B2  \ M - N   
+main : A - B - C - M  
+            B2  \ M - N - x -m -q
 
 test merge str
 l1
