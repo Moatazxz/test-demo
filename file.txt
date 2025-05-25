@@ -13,3 +13,4 @@ main : A - B - C - M - N
 
 test merge str
 l1
+l2
