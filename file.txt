@@ -12,3 +12,4 @@ main : A - B - C - M - N
             B2  \ M - N   
 
 test merge str
+l1
